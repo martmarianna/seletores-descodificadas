@@ -1,0 +1,43 @@
+/* section
+{
+    text-align: center;
+}   */
+div 
+{
+    display: inline-block;                
+    width: 200px;
+    height: 200px;
+    /* margin: -1px;   
+    margin-top: -1px;   
+    margin-bottom: -1px;                                   */
+}
+
+.red
+{
+    background-color: red;
+}
+
+.blue
+{
+    background-color: blue;
+}
+
+.green
+{
+    background-color: green;
+}
+
+.yellow
+{
+    background-color: yellow;
+}
+
+.blackborder 
+{
+   border: 2px solid black;
+}
+
+.blackborder:hover 
+{
+    background-color: purple;
+ }
